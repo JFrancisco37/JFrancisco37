@@ -2,7 +2,7 @@
 
 ## About me:
 - 🔭 I’m currently working on optimization problems with CPLEX and heuristics
-- 🌱 I’m currently learning C++, bash
+- 🌱 I’m currently learning C++, bash, lua
 - 😄 Pronouns: he/him
 - 📫 How to reach me: joaofhmunhoz@gmail.com
 
