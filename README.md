@@ -7,5 +7,5 @@
 
 ### Other interests:
 - 📖 Books
-- 🎵 Music (mostly nu-metal)
+- 🎵 Music (mostly pink floyd and nu-metal)
 - 🎲 Boardgames
