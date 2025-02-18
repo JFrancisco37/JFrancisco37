@@ -9,3 +9,5 @@
 - 📖 Books
 - 🎵 Music (mostly pink floyd and nu-metal)
 - 🎲 Boardgames
+- 🇩🇪 German
+- 🇨🇳 Chinese
